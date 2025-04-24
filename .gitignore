@@ -1,0 +1,15 @@
+# Ignora arquivos temporários e checkpoints do Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Ignora a pasta data na raiz do projeto
+/data/
+
+# Ignora CSVs extraídos das páginas
+/extracao_dados/csv_paginas/
+
+# Arquivos temporários do sistema (macOS)
+.DS_Store
+
+# Arquivos de ambiente
+.env
