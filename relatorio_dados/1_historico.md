@@ -1,7 +1,5 @@
 ## Histórico de terceirizados (2010 a 2024)
 
-### Introdução
-
 Aqui vamos analisar o histórico dos dados de terceirizados do governo federal. Com a contribuição da CGU, conseguimos os dados desde 2010, o que nos 14 anos de informações sobre os terceirizados que foram contratados no administração pública federal. 
 
 É importante mencionar que, como são os órgãos que encaminham as informações para a CGU, não há dados de todos os órgãos. Há três informações validadas pela CGU antes da publicação na página de Dados Abertos: CBO (Classificação Brasileira de Ocupações) a partir de 2018; CPF e CNPJ da empresa contratada pelo órgão para a terceirização. Portanto, há margem para erros e todas as análises aqui discutidas devem ser lidas de maneira crítica. Como há informações que estão suscetíveis a erros de preenchimento, verificamos a presenção de valores nulos e outliers que não são passíveis de correção, já que não temos acesso fácil e rápido à informação preenchida quando do ano de carga de submissão dos dados dos terceirizados pelo órgão. 
