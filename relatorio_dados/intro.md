@@ -8,10 +8,11 @@ Os dados da CGU foram utilizados para analisar historicamente algumas variáveis
 
 Sempre que for possível, utilizaremos a medianda como análise de tendência, uma vez que as bases aqui utilizadas referentes aos terceirizados podem vir com erros de preenchimento, o que impactaria na análise dos valores quantitativos.
 
-```{admonition} ⚠️ Atenção!
+```{admonition} Atenção!
 :class: warning
 
 Caso você esteja com dificuldade de ler o gráfico, **clique com o botão direito do mouse sobre a imagem** e selecione **"Abrir imagem em uma nova guia"** para visualizá-la em tamanho maior.
 
-```{tableofcontents}
 ```
+
+```{tableofcontents}

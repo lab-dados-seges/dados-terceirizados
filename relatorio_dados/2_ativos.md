@@ -37,7 +37,7 @@ Gráfico 12 – Mediana do valor da hora (R$) dos top 10 funções com o maior q
 
 Para contrastar com os gráficos anteriores, fizemos uma análise das categorias com as maiores medianas de valor/hora.
 
-![Gráfico dos top 10 mediana valor hora](../analises/graficos/mediana_valor_hora_top_10.png)
+![Gráfico dos top 10 mediana valor hora](../analises/graficos/top_10_mediana_valor_hora.png)
 <p style="text-align: center; font-size: 0.9em; color: gray;">
 Gráfico 13 – As top 10 funções com a maior mediana valor/hora (R$).
 </p>
