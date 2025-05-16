@@ -89,7 +89,7 @@ As categorias mostradas no Gráfico 7 que aparecem em 2017 até 2024 têm um aum
 
 Agora vamos analisar a mediana salarial das categorias, também divididas em Grupos, da mesma forma que os gráficos anteriores.
 
-![Gráfico da mediana da remuneração do grupo 1](../analises/graficos/ediana_remuneracao_mensal_1.png)
+![Gráfico da mediana da remuneração do grupo 1](../analises/graficos/mediana_remuneracao_mensal_1.png)
 <p style="text-align: center; font-size: 0.9em; color: gray;">
 Gráfico 8 – Mediana do salário mensal das categorias do Grupo 1 entre 2010 e 2024.
 </p>
@@ -100,7 +100,7 @@ Desde 2022, o salário mediano de Vigilante tem um aumento considerável, passan
 
 Agora vejamos o Grupo 2:
 
-![Gráfico da mediana da remuneração do grupo 2](../analises/graficos/ediana_remuneracao_mensal_2.png)
+![Gráfico da mediana da remuneração do grupo 2](../analises/graficos/mediana_remuneracao_mensal_2.png)
 <p style="text-align: center; font-size: 0.9em; color: gray;">
 Gráfico 9 – Mediana do salário mensal das categorias do Grupo 2 entre 2010 e 2024.
 </p>

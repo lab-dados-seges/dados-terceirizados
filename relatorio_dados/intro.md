@@ -6,5 +6,12 @@ Os dados utilizados vieram de duas fontes principais: <a href="https://www.gov.b
 
 Os dados da CGU foram utilizados para analisar historicamente algumas variáveis de relevância, como quantidade total e remuneração ao longo dos anos. Já a base de dados do ContratosGov, por ser alimentada diretamente pelos responsáveis pela política de compras do governo e por estar com mais dados validados, foram utilizados para identificar padrões, tendências e outras informações sobre os terceirizados ativos no momento. Também serão utilizados dados da Relação Anual de Informações Sociais (RAIS), da Classificação Brasileira de Ocupações (CBO) e do Cadastro Geral de Empregados e Desempregados (CAGED) para cruzar informações sobre o mercado de trabalho em geral e outras informações, como sexo (variável nomeada dessa forma nessas bases).
 
+Sempre que for possível, utilizaremos a medianda como análise de tendência, uma vez que as bases aqui utilizadas referentes aos terceirizados podem vir com erros de preenchimento, o que impactaria na análise dos valores quantitativos.
+
+```{admonition} ⚠️ Atenção!
+:class: warning
+
+Caso você esteja com dificuldade de ler o gráfico, **clique com o botão direito do mouse sobre a imagem** e selecione **"Abrir imagem em uma nova guia"** para visualizá-la em tamanho maior.
+
 ```{tableofcontents}
 ```

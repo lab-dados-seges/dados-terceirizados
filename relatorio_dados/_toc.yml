@@ -5,3 +5,4 @@ format: jb-book
 root: intro
 chapters:
 - file: 1_historico
+- file: 2_ativos
