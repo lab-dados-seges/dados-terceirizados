@@ -1,6 +1,6 @@
 ## Terceirizados ativos nos contratos do Governo Federal
 
-Nesta seção analisaremos os servidores que estão com vínculo ativo nos contratos do Governo Federal. O objetivo é identificar características, padrões e pontos de atenção que apoie o processo de implementação da política estabelecida a partir do Decreto nº 11.430/2023. A base de dados utilizada foi raspada do ContratosGov, além dos cruzamentos com a base histórica da CGU para termos o valor do salário mensal e com as bases do CAGED e do RAIS.
+Nesta seção analisaremos os servidores que estão com vínculo ativo nos contratos do Governo Federal. O objetivo é identificar características, padrões e pontos de atenção que apoie o processo de implementação da política estabelecida a partir do Decreto nº 11.430/2023. Os dados dos servidores inativos serão utilizados para identificar a rotatividade e o tempo de permanência dos terceirizados, uma vez que nesta base do ContratosGov há variáveis com a data de início e de fim de cada terceirizado. A base de dados utilizada foi raspada do ContratosGov em 22/04/2025, além dos cruzamentos com a base histórica da CGU para termos o valor do salário mensal e com as bases do CAGED e do RAIS.
 
 ### Categorias com mais profissionais ativos
 
@@ -43,3 +43,47 @@ Gráfico 13 – As top 10 funções com a maior mediana valor/hora (R$).
 </p>
 
 Aqui conseguimos identificar disparidades importantes em relação ao Gráfico 12. Enquanto no Gráfico 13, as funções recebem a partir de 30,00 reais por hora, no Gráfico 12, a categoria com o maior valor de hora é Assistente Administrativo com menos de R$ 12,00.
+
+### Rotatividade e permanência no posto
+
+Para identificarmos a rotatividade e a permanência dos terceirizados nos postos, utilizamos a base de terceirizados raspada do ContratosGov a partir do filtro de inativo na variável "Situação". Assim conseguimos observar a data de início e de fim dos contratos e calcular a mediana.
+
+#### Rotatividade dos inativos
+
+Para observar a relação entre funções e tempo de permanência, fizemos dois gráficos: um com as 15 funções com menor mediana de tempo de permanência e outro com as 15 funções com maior mediana de tempo de permanência. O cálculo da permanência foi feita a partir da mediana da contagem dos dias entre a data de início e de fim dos terceirizados que estão com situação inativa.
+
+![Gráfico dos top 15 menor mediana tempo](../analises/graficos/top_15_menor_mediana_tempo.png)
+<p style="text-align: center; font-size: 0.9em; color: gray;">
+Gráfico 14 – As funções com as 15 menores medianas de tempo de permanência em dias.
+</p>
+
+A função de zelador ficou por menos de 40 dias - o menor valor -.
+
+![Gráfico dos top 15 maior mediana tempo](../analises/graficos/top_15_maior_mediana_tempo.png)
+<p style="text-align: center; font-size: 0.9em; color: gray;">
+Gráfico 15 – As funções com as 15 maiores medianas de tempo de permanência em dias.
+</p>
+
+O gráfico acima demonstra que, nos casos dos terceirizados inativos, temos Bombeiro Hidráulico e Técnico de Suporte de TI com as maiores medianas de tempo de permanência, ultrapassando 1300 dias - ou por volta de 3 anos e meio de permanência. É importante lembrar que pode haver mudança de empresa contratante, o que impacta no tempo de permanência dos terceirizados.
+
+#### Tempo de permanência das funções com maior quantitativo de contratos
+
+Anteriormente, chegamos, a partir da base de ativos dos terceirizados, que as funções com o maior quantitativo de contratados são: Vigilante, Auxiliar de Limpeza, Limpeza e Conservação, Assistente Administrativo, Auxiliar Administrativo, Recepcionista, em Geral, Auxiliar de Serviços Diversos, Motorista, Porteiro e Vigia. Portanto, é interessante observar o tempo de permanência em meses de terceirizados com essas funções, conforme gráfico a seguir:
+
+![Gráfico das top 10 funcoes e tempo de permanência](../analises/graficos/top_10_funcoes_mediana_tempo.png)
+<p style="text-align: center; font-size: 0.9em; color: gray;">
+Gráfico 16 – Tempo de permanência (em meses) das top 10 funções com maior quantitativo.
+</p>
+
+Auxiliar de Serviços Diversos, Vigilante, Porteiro, Auxiliar Administrativo e Vigia permaneceram por mais de 1 ano nos postos.
+
+#### Correlação entre mediana salarial e tempo de permanência
+
+O gráfico abaixo representa a correlação entre mediana salarial e tempo de permanência em meses dos terceirizados inativos:
+
+![Gráfico da correlação entre salário e tempo](../analises/graficos/corr_salario_tempo.png)
+<p style="text-align: center; font-size: 0.9em; color: gray;">
+Gráfico 17 – Correlação entre mediana salarial e tempo de permanência em meses.
+</p>
+
+A correlação de Spearman é de 0.04, o que significa que não há evidência de correlação entre a mediana salarial e o tempo de permanência.
