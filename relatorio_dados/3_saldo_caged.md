@@ -1,4 +1,4 @@
-## Saldo líquido de empregos formais das categorias de interesse no ano de 2024
+# Saldo líquido de empregos formais das categorias de interesse no ano de 2024
 
 Nesta seção vamos analisar os dados do CAGED, filtrando apenas as categorias profissionais com CBO - expresso ou que foi possível identificar na base do histórico da CGU - com os maiores quantitativos de terceirizados entre 2010 e 2024, quais sejam: 
 
@@ -33,7 +33,7 @@ A partir desta lista, filtramos a base de dados do CAGED, utilizando as planilha
 
 Para verificar o tratamento feito para construir as análises aqui listadas, [visualize o notebook com os códigos](https://nbviewer.org/github/lab-dados-seges/dados-terceirizados/blob/main/analises/saldo_caged.ipynb).
 
-### Saldo total líquido de empregos formais
+## Saldo total líquido de empregos formais
 
 Aqui iremos observar o saldo líquido do CAGED em 2024 a partir do gráfico abaixo:
 
@@ -44,7 +44,7 @@ Gráfico 18 – Saldo líquido de empregos formais no ano de 2024 das categorias
 
 Faxineiro e Auxiliar de Limpeza são as categorias com um saldo maior, o que indica que há um saldo positivo (as admissões superaram os desligamentos) significativo. A partir de Operador de Telemarketing Ativo e Receptivo há uma diminuição considerável no saldo, chegando até às três categorias com saldo negativo (os desligamentos superaram as admissões): Administrador (-118), Operador de Telemarketing Ativo (-514) e Operador de Telemarketing Receptivo (-626).
 
-### Distribuição de gênero nos saldos líquidos 
+## Distribuição de gênero nos saldos líquidos 
 
 Como a política de cota para mulheres delineada pelo Decreto nº 11.430/2023 é uma política de gênero também, o gráfico abaixo mostra a distribuição das mulheres nos saldos de empregos formais. Conforme explicado no início da seção, as categoriais de interesse foram agrupadas a partir de faixas de saldo líquido para melhor visualização de dados. A variável utilizada para a análise de gênero foi "sexo", uma vez que é assim que consta no dicionário de dados do CAGED. 
 
@@ -76,7 +76,7 @@ Gráfico 22 – Saldo líquido por gênero das categorias do Grupo 4.
 
 Quanto ao último grupo, com saldo líquido menor que 1000, incluindo-se, portanto, os saldos líquidos negativos, temos que as mulheres contribuíram para o saldo negativo. Veja o caso da categoria Administrador, temos um saldo positivo de homens, ou seja, mais admissões do que desligamentos, mas para mulheres há a situação contrária: mais desligamentos que admissões. Isso também ocorre para as duas outras categorias com saldo negativo.
 
-### Distribuição de raça e cor nos saldos líquidos
+## Distribuição de raça e cor nos saldos líquidos
 
 Agora vamos nos voltar para a distribuição de raça e cor nos saldos. Nos dados do CAGED temos as seguintes possibilidades: Branca, Preta, Parda, Amarela, Indígena, Não Informada e Não identificado. Porém, para ajudar na visualização e também por ser uma informação com poucas ocorrências nos dados, optamos por não incluir na análise a opção "Não identificado". A seguir veremos os gráficos da distribuição nas categorias de interesse também agrupados por faixa de saldo líquido.
 
@@ -108,7 +108,7 @@ Gráfico 26 – Saldo líquido por raça e cor nas categorias do Grupo 4.
 
 Por fim, no Grupo 4, na categoria de Técnico em Secretariado vemos que pessoas pardas contribuíram bastante para o saldo líquido. Das quatro categorias mostradas neste gráfico, apenas Técnico em Secretariado teve saldo positivo.
 
-### Distribuição de raça e cor de mulheres nos saldos líquidos
+## Distribuição de raça e cor de mulheres nos saldos líquidos
 
 Neste item vamos analisar apenas as mulheres para compreender a distribuição de cor e raça. O objetivo é identificar a contribuição de mulheres pretas, pardas, brancas, amarelas e indígenas nos saldos líquidos. Aqui também vamos analisar por grupos de faixa de saldo, seguindo os itens anteriores.
 

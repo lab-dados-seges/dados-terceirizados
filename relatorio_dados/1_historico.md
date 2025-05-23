@@ -1,4 +1,4 @@
-## Histórico de terceirizados (2010 a 2024)
+# Histórico de terceirizados (2010 a 2024)
 
 Aqui vamos analisar o histórico dos dados de terceirizados do governo federal. Com a contribuição da CGU, conseguimos os dados desde 2010, o que nos 14 anos de informações sobre os terceirizados que foram contratados no administração pública federal. 
 
@@ -6,7 +6,7 @@ Aqui vamos analisar o histórico dos dados de terceirizados do governo federal. 
 
 Diante disso, os valores nulos e outliers foram retirados dos dados utilizados para as análises aqui propostas. A quantidade retirada não é significativa frente ao universo dos dados validados - em torno de 3 milhões de linhas. Para verificar o tratamento feito para construir as análises aqui listadas, [visualize o notebook com os códigos](https://nbviewer.org/github/lab-dados-seges/dados-terceirizados/blob/main/analises/historico_terceirizados.ipynb).
 
-### Terceirizados no governo federal
+## Terceirizados no governo federal
 
 Para verificar a quantidade de terceirizados por ano na administração pública federal, vamos utilizar a variável ano de carga. Isso significa que foi o ano em que o órgão submeteu a informação daquele terceirizado. Vejamos a distribuição do quantitativo total:
 
@@ -44,7 +44,7 @@ Gráfico 4 – Maiores custos mensais medianos de terceirizados contratados pelo
 
 É possível observar que os três maiores custos mensais medianos são das categorias profissionais de engenheiro eletrônico, engenheiro mecânico e analista de negócios com valores acima de 30 mil reais mensais. Isso mostra que a participação do MCTI no custo mensal mediano do Gráfico 3 é devido à especialização e a questões relativas a piso salarial para engenheiros - para engenheiro eletrônico em 2025, por exemplo, fica na faixa de 10 mil reais.
 
-### Categorias profissionais dos terceirizados
+## Categorias profissionais dos terceirizados
 
 Agora que já vimos um panorama de quantitativo e de custo por órgãos, vamos analisar as categorias profissionais contratadas pelo governo federal. Essa análise é importante para a implementação da política de cotas para mulheres em situação de violência porque podemos identificar quais categorias são mais contratadas, assim como os valores pagos ao longo dos anos. Para a (re)inserção de mulheres vítimas de violência é fundamental que haja um retorno econômico e financeiro para elas.
 
@@ -61,7 +61,7 @@ Entre 2010 e 2016 as categorias de Vigilante, Auxiliar de Serviços Gerais e Ser
 
 Para compreender tanto o custo mensal quanto o salário mensal, pegamos as 10 categorias com os maiores quantitativos de terceirizados e dividimos em dois grupos para melhor visualização dos dados. O Grupo 1 representa as categorias profissionais de Vigilante, Faxineiro, Servente, Auxiliar de Serviços Gerais e Recepcionista, em Geral. Este grupo representa as categorias com os cinco maiores quantitativos de contratações. O Grupo 2, por sua vez, são os outros 5 - entre 5 a 10, dos top 10 - quantitativos: Assistente Administrativo, Auxiliar de Escritório, Recepcionista, Operador de Telemarketing Ativo e Receptivo e Copeiro.
 
-#### Custo mensal mediano por categoria
+### Custo mensal mediano por categoria
 
 Aqui vamos analisar o custo mensal mediano dos dois grupos de 2010 a 2024. Esse custo refere-se, como dito anteriormente, ao custo mensal do terceirizado para empresa.
 
@@ -83,7 +83,7 @@ Aqui também é possível identificar as mudanças de padrão de nomenclatura da
 
 As categorias mostradas no Gráfico 7 que aparecem em 2017 até 2024 têm um aumento expressivo de 2023 para 2024, inclusive Assistente Administrativo que estava em queda desde 2019.
 
-#### Salário mensal mediano por categoria
+### Salário mensal mediano por categoria
 
 Agora vamos analisar a mediana salarial das categorias, também divididas em Grupos, da mesma forma que os gráficos anteriores.
 
