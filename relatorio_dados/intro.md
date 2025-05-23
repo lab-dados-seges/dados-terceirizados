@@ -1,4 +1,4 @@
-# Terceirizados do Governo Federal
+# Introdução
 
 Este relatório tem o objetivo de analisar os dados de terceirizados do Governo Federal para identificar informações importantes para a implementação do Decreto nº 11.430/2023 que dispõe sobre a exigência, em contratações públicas, de percentual mínimo de mão de obra constituída por mulheres vítimas de violência doméstica e sobre a utilização do desenvolvimento, pelo licitante, de ações de equidade entre mulheres e homens no ambiente de trabalho como critério de desempate em licitações, no âmbito da administração pública federal direta, autárquica e fundacional.
 
