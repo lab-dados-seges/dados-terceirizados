@@ -1,4 +1,4 @@
-# Terceirizados ativos e ativos nos contratos do Governo Federal
+# Terceirizados ativos e inativos nos contratos do Governo Federal
 
 Nesta seção analisaremos os terceirizados que estão com vínculo ativo e inativo nos contratos do Governo Federal. O objetivo é identificar características, padrões e pontos de atenção que apoie o processo de implementação da política estabelecida a partir do Decreto nº 11.430/2023. Os dados dos servidores inativos serão utilizados para identificar a rotatividade e o tempo de permanência dos terceirizados, uma vez que nesta base do ContratosGov há variáveis com a data de início e de fim de cada terceirizado. A base de dados utilizada foi raspada do ContratosGov em 22/04/2025. Para verificar o tratamento feito para construir as análises aqui listadas, [visualize o notebook com os códigos](https://nbviewer.org/github/lab-dados-seges/dados-terceirizados/blob/main/analises/terceirizados_contratosgov.ipynb).
 
