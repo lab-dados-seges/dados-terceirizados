@@ -46,7 +46,7 @@ Faxineiro e Auxiliar de Limpeza são as categorias com um saldo maior, o que ind
 
 ## Distribuição de gênero nos saldos líquidos 
 
-Como a política de cota para mulheres delineada pelo Decreto nº 11.430/2023 é uma política de gênero também, o gráfico abaixo mostra a distribuição das mulheres nos saldos de empregos formais. Conforme explicado no início da seção, as categoriais de interesse foram agrupadas a partir de faixas de saldo líquido para melhor visualização de dados. A variável utilizada para a análise de gênero foi "sexo", uma vez que é assim que consta no dicionário de dados do CAGED. 
+Como a política de cota para mulheres delineada pelo Decreto nº 11.430/2023 é uma política de gênero também, o gráfico abaixo mostra a distribuição das mulheres nos saldos de empregos formais. Conforme explicado no início da seção, as categoriais de interesse foram agrupadas a partir de faixas de saldo líquido para melhor visualização de dados. A variável utilizada para a análise de gênero foi "sexo", uma vez que é assim que consta no dicionário de dados do CAGED. Há, também, "não informado" na variável sexo, mas como os valores dessa informação são pequenos, não há a indicação deles nos gráficos abaixo.
 
 ![Gráfico de saldo líquido gênero grupo 1](../analises/graficos/saldo_genero_1.png)
 <p style="text-align: center; font-size: 0.9em; color: gray;">

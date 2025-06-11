@@ -55,7 +55,7 @@ Diante disso, vamos analisar as top 3 categorias mais contratadas ao longo dos a
 Gráfico 5 – Top 3 categorias profissionais contratadas entre 2010 e 2024.
 </p>
 
-A partir de 2017 é possível observar uma mudança na nomenclatura das categorias profissionais. Como a ideia é observar o histórico, optamos por não aglutinar as categorias profissionais por não termos embasamento metodológico para isso, o que impacta na análise feita. Há duas categorias de recepcionista: recepcionista e recepcionista, em geral. Na atual CBO, há diversos tipos de recepcionista, então optamos por deixar essas duas categorias como distintas para identificar a mudança de padrão. 
+A partir de 2017 é possível observar uma mudança na nomenclatura das categorias profissionais. Como a ideia é observar o histórico, optamos por não aglutinar as categorias profissionais por não termos embasamento metodológico para isso, o que impacta na análise feita. Há duas categorias de recepcionista: Recepcionista e Recepcionista, em Geral. Na atual CBO, há diversos tipos de recepcionista, então optamos por deixar essas duas categorias como distintas para identificar a mudança de padrão. 
 
 Entre 2010 e 2016 as categorias de Vigilante, Auxiliar de Serviços Gerais e Servente configuraram como as categorias com mais profissionais contratados. A partir de 2017, ainda que Vigilante permaneça como a categoria mais contratada, temos agora Recepcionista, em Geral e Faxineiro. Entre 2023 e 2024 a categoria de Recepcionista, em Geral dá lugar a Assistente Administrativo.
 
@@ -70,7 +70,7 @@ Aqui vamos analisar o custo mensal mediano dos dois grupos de 2010 a 2024. Esse 
 Gráfico 6 – Custo mensal mediano das categorias do Grupo 1 entre 2010 e 2024.
 </p>
 
-A partir desse gráfico conseguimos perceber claramente o ponto de mudança de padrão de nomenclatura das categorias profissionais. Os custos mensais de Auxiliar de Serviços Gerais e de Servente são computados até 2017, daí em diante aparece Recepcionista, em Geral. A categoria de vigilante possui o maior custo mensal - isso faz sentido, já que o salário de vigilante costuma ser maior do que as demais categorias profissionais mostradas neste gráfico. Observe que Recepcionista, em Geral, de 2017 a 2022, está com custo mensal acima de Faxineiro. Em 2023 o custo de Faxineiro fica acima para, em 2024, o custo dessas duas categorias profissionais estarem basicamente no mesmo patamar - Faxineiro está um pouco acima de Recepcionista, em Geral.
+A partir desse gráfico conseguimos perceber claramente o ponto de mudança de padrão de nomenclatura das categorias profissionais. Os custos mensais de Auxiliar de Serviços Gerais e de Servente são computados até 2017, daí em diante aparece Recepcionista, em Geral. A categoria de vigilante possui o maior custo mensal - isso faz sentido, já que o salário de vigilante costuma ser maior do que as demais categorias profissionais mostradas neste gráfico. Observe que Recepcionista, em Geral, de 2017 a 2022, está com custo mensal acima de Faxineiro. Em 2023, o custo de Faxineiro fica acima para, em 2024, o custo dessas duas categorias profissionais estarem basicamente no mesmo patamar - Faxineiro está um pouco acima de Recepcionista, em Geral.
 
 Vamos analisar o Grupo 2:
 
@@ -79,9 +79,9 @@ Vamos analisar o Grupo 2:
 Gráfico 7 – Custo mensal mediano das categorias do Grupo 2 entre 2010 e 2024.
 </p>
 
-Aqui também é possível identificar as mudanças de padrão de nomenclatura das categorias. Até 2017 temos Recepcionista - no Gráfio 6 a categoria Recepcionista, em Geral começa a aparecer exatamente no ponto no qual Recepconista termina de aparecer - e daí em diante aparece Operador de Telemarketing Ativo e Receptivo. Esta categoria tem uma mudança abrupta no custo, caindo consideravalmente de 2017 a 2018, e depois, gradualmente, aumenta até seu pico em 2024. Perceba que na época da pandemia da Covid-19, entre 2020 e 2022 o custo estagna e retoma ao crescimento. Durante esses anos de pandemia, a partir dos gráficos 6 e 7 percebemos que os maiores impactados foram Assistente Administrativo, Auxiliar de Escritório e Recepcionista, em Geral.
+Aqui também é possível identificar as mudanças de padrão de nomenclatura das categorias. Até 2017 temos Recepcionista - no Gráfico 6 a categoria Recepcionista, em Geral começa a aparecer exatamente no ponto no qual Recepconista não aparece mais - e daí em diante aparece Operador de Telemarketing Ativo e Receptivo. Esta categoria tem uma mudança abrupta no custo, caindo consideravalmente de 2017 a 2018, e depois, gradualmente, aumenta até seu pico em 2024. Perceba que na época da pandemia da Covid-19, entre 2020 e 2022 o custo estagna e retoma ao crescimento. Durante esses anos de pandemia, a partir dos gráficos 6 e 7 percebemos que os maiores impactados foram Assistente Administrativo, Auxiliar de Escritório e Recepcionista, em Geral.
 
-As categorias mostradas no Gráfico 7 que aparecem em 2017 até 2024 têm um aumento expressivo de 2023 para 2024, inclusive Assistente Administrativo que estava em queda desde 2019.
+As categorias mostradas no Gráfico 7 que aparecem de 2017 até 2024 têm um aumento expressivo de 2023 para 2024, inclusive Assistente Administrativo que estava em queda desde 2019.
 
 ### Salário mensal mediano por categoria
 
@@ -92,7 +92,7 @@ Agora vamos analisar a mediana salarial das categorias, também divididas em Gru
 Gráfico 8 – Mediana do salário mensal das categorias do Grupo 1 entre 2010 e 2024.
 </p>
 
-Das categorias apresentadas no gráfico acima, Vigilante é a que tem a maior remuneração ao longo dos anos. Logo depois, a partir de 2017, temos Recepcionista, em Geral e, em terceiro, Faxineiro. Perceba que, ainda que o custo mensal dessas duas categorias esteja próximo, Recepcionista, em Geral recebe mais que Faxineiro. Isso se deve, talvez, pela quantidade contratada pelos órgãos. Conforme Gráfico 5, desde 2017 a categoria Faxineiro é a segunda maior em número de contratação, seguida da Recepcionista, em Geral. Assim, o custo é elevado pela quantidade, mas não se reflete no salário recebido por esses profissionais.
+Das categorias apresentadas no gráfico acima, Vigilante é a que tem a maior remuneração ao longo dos anos. Logo depois, a partir de 2017, temos Recepcionista, em Geral e, em terceiro, Faxineiro. Perceba que, ainda que o custo mensal dessas duas categorias esteja próximo, Recepcionista, em Geral recebe mais que Faxineiro. Isso se deve, talvez, pela quantidade contratada pelos órgãos. Conforme o Gráfico 5, desde 2017 a categoria Faxineiro é a segunda maior em número de contratação, seguida da Recepcionista, em Geral. Assim, o custo é elevado pela quantidade, mas não se reflete no salário recebido por esses profissionais.
 
 Desde 2022, o salário mediano de Vigilante tem um aumento considerável, passando da faixa de R$ 2.250,00 mensais.
 

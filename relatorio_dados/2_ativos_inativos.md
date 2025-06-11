@@ -1,6 +1,6 @@
 # Terceirizados ativos e inativos nos contratos do Governo Federal
 
-Nesta seção analisaremos os terceirizados que estão com vínculo ativo e inativo nos contratos do Governo Federal. O objetivo é identificar características, padrões e pontos de atenção que apoie o processo de implementação da política estabelecida a partir do Decreto nº 11.430/2023. Os dados dos servidores inativos serão utilizados para identificar a rotatividade e o tempo de permanência dos terceirizados, uma vez que nesta base do ContratosGov há variáveis com a data de início e de fim de cada terceirizado. A base de dados utilizada foi raspada do ContratosGov em 22/04/2025. Para verificar o tratamento feito para construir as análises aqui listadas, [visualize o notebook com os códigos](https://nbviewer.org/github/lab-dados-seges/dados-terceirizados/blob/main/analises/terceirizados_contratosgov.ipynb).
+Nesta seção analisaremos os terceirizados que estão com vínculo ativo e inativo nos contratos do Governo Federal. O objetivo é identificar características, padrões e pontos de atenção que apoiem o processo de implementação da política estabelecida a partir do Decreto nº 11.430/2023. Os dados dos servidores inativos serão utilizados para identificar a rotatividade e o tempo de permanência dos terceirizados, uma vez que nesta base do ContratosGov há variáveis com a data de início e de fim de cada terceirizado. A base de dados utilizada foi raspada do ContratosGov em 22/04/2025. Para verificar o tratamento feito para construir as análises aqui listadas, [visualize o notebook com os códigos](https://nbviewer.org/github/lab-dados-seges/dados-terceirizados/blob/main/analises/terceirizados_contratosgov.ipynb).
 
 ## Categorias com mais profissionais ativos
 
@@ -11,7 +11,7 @@ Na base de dados do ContratosGov, há a variável "Função" que identifica a ca
 Gráfico 10 – Top 10 funções com o maior quantitativo de terceirizados ativos.
 </p>
 
-Acompanhando a série histórica discutida na seção 1 deste relatório, temos Vigilante como o maior quantitativo de terceirizados ativos, seguido por Auxiliar de Limpeza, Limpeza e Conservação e Assistente Administrativo. É possível compreender que Auxiliar de Limpeza e Limpeza e Conservação sejam próximos, mas como há distinção na base, deixamos assim. Caso tivesse a CBO, poderíamos fazer esse cruzamento e identificar proximidade das classificações, mas as funções listadas na base do ContratosGov estão apenas com o nome.
+Acompanhando a série histórica discutida na seção 1 deste relatório, temos Vigilante com o maior quantitativo de terceirizados ativos, seguido por Auxiliar de Limpeza, Limpeza e Conservação e Assistente Administrativo. É possível compreender que Auxiliar de Limpeza e Limpeza e Conservação sejam próximos, mas como há distinção na base, deixamos assim. Caso tivesse a CBO, poderíamos fazer esse cruzamento e identificar proximidade das classificações, mas as funções listadas na base do ContratosGov estão apenas com o nome.
 
 ## Mediana salarial das categorias
 
@@ -26,7 +26,7 @@ Abaixo conseguimos visualizar a mediana salarial das categorias apresentadas ant
 Gráfico 11 – Mediana salarial (R$) do top 10 funções com o maior quantitativo de terceirizados ativos.
 </p>
 
-Para aprofundarmos a análise, temos a seguir um gráfico calculando a mediana do valor mensal recebido em relação à carga horária semanal - que na base do ContratosGov está na variável "Jornada Semanal". Para o cálculo do valor da hora dessas categorias, vamos multiplicar por 4.33 porque é uma média de semana por mês considerando 12 meses. O cálculo ficará assim: valor_hora = vl_mensal_salario / (Jornada Semanal x 4.33).
+Para aprofundarmos a análise, temos a seguir um gráfico calculando a mediana do valor mensal recebido em relação à carga horária semanal - que na base do ContratosGov está na variável "Jornada Semanal". Para o cálculo do valor da hora dessas categorias, vamos multiplicar por 4.33 que é uma média de semana por mês considerando 12 meses. O cálculo fica assim: valor_hora = vl_mensal_salario / (Jornada Semanal x 4.33).
 
 ![Gráfico de mediana valor hora dos top 10 funções](../analises/graficos/mediana_valor_hora_top_10.png)
 <p style="text-align: center; font-size: 0.9em; color: gray;">
