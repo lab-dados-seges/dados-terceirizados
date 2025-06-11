@@ -16,5 +16,3 @@ Caso você esteja com dificuldade de ler o gráfico, **clique com o botão direi
 ```
 
 ```{tableofcontents}
-
-A presente análise foi realizada pela equipe do Núcleo de Inteligência de Dados da SEGES/MGI.
